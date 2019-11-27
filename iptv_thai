@@ -1,11 +1,4 @@
 #EXTM3U
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="- อัพเดทล่าสุด: 10.26.19",- อัพเดทล่าสุด: 10.26.2019
-http://bit.ly/2nqMJXb
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bell-1096280_960_720.png" group-title="- แจ้งเตือน",แจ้งการถอดช่อง
-https://cdn.kapwing.com/final_5d9a21fbe4ae690013bdb43d_995417.mp4
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="LABEL",~ Thailand TV ~
 http://www.lengua.com/anthems/Thailand.mp3
@@ -141,7 +134,7 @@ http://bit.ly/2lLWLBc
 http://bit.ly/2lLRUzX
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-fox.png" group-title="- ประเทศไทย",FOX THAI
 http://bit.ly/2IlRWXf
-#EXTINF:-1 group-title="หนัง"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/foxfamily.png",Fox family movie
+#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/foxfamily.png",Fox family movie
 http://bit.ly/2nDjS1h
 #EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",FOX ACTION MOVIES TH
 http://bit.ly/2lLRUzX
