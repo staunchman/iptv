@@ -1,0 +1,1085 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/3hd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/ch5.png",5 HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/5hd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/ch7.png",7 HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/7hd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mcothd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/nbt.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/thairath.png",THAIRATH HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/amarin.png",AMARIN HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/onehd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD 
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/pptvhd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/thaipbs.png",THAIPBS
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/thaipbs.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/workpoint.png",WORKPOINT
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/workpointtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO29
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mono29.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/true4u.png",TRUE4U
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/true4u.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/gmmchannel.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/ch8.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/tnn24.png",TNN24
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/tnn24.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/nation.png",NATION CHANNEL
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/nation.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181211134819NEW-TV.jpg",NEW TV
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/TPTV.png",TPTV
+https://live.youlive-cdn.com/02_TPTV_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO
+
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO
+https://live.youlive-cdn.com/02_HBOHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/red.png",RED BY HBO
+https://live.youlive-cdn.com/02_RedbyHBO_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbohits.png",HBO HITS
+https://live.we-play.tv/app/hbo-hit/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbohits.png",HBO HITS
+https://live.youlive-cdn.com/02_HBOHit_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbosig.png",HBO SIGNATURE
+https://live.we-play.tv/app/hbo-signature/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbosig.png",HBO SIGNATURE
+https://live.youlive-cdn.com/02_HBOSignature_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbofam.png",HBO FAMILY
+https://live.we-play.tv/app/hbo-family/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbofam.png",HBO FAMILY
+https://live.youlive-cdn.com/02_HBOFamily_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
+https://live.youlive-cdn.com/02_WarnerTVHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm hd
+https://live.youlive-cdn.com/02_TrueFilmHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/2018073120512464649285.jpg",Truefilm hd2
+https://live.youlive-cdn.com/02_TrueFilmHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/axn.png",AXN
+https://live.youlive-cdn.com/02_AXNHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",FOX ACTION MOVIES TH
+https://live.youlive-cdn.com/02_FoxActionHD_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",FOX ACTION MOVIES
+https://live.youlive-cdn.com/02_FoxActionHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxp-thai.png",Fox Movies Premium TH
+https://live.youlive-cdn.com/02_FoxMoviesTH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxp-thai.png",Fox Movies Premium
+https://live.youlive-cdn.com/02_FoxMoviesHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxfamily.png",Fox family movie TH
+https://live.youlive-cdn.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxfamily.png",Fox family movie
+https://live.youlive-cdn.com/02_FoxFamilyHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxthai.png",FOX THAI TH
+https://live.we-play.tv/app/foxth/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxthai.png",FOX THAI TH
+https://live.youlive-cdn.com/02_FoxThai_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxthai.png",FOX THAI
+https://live.youlive-cdn.com/02_FoxThai_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxcrime.png",Fox Crime TH
+https://live.youlive-cdn.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxcrime.png",Fox Crime 
+https://live.youlive-cdn.com/02_FoxCrimeHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/fxhd.png",FX HD
+https://live.youlive-cdn.com/02_FXThailand_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxlife.png",Foxlife
+http://iliketot.dyndns.tv/65f7358b813048a0898f5677e1793cf9.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/thrill.png",Thrill
+http://iliketot.dyndns.tv/c316ed9333e54442b25077f0bb3cc269.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/kix.png",KIX
+http://iliketot.dyndns.tv/e584e0adae6440eab366f5fe3a824f91.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20180320120049639088651.jpg",Star Movies chinese
+http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/201707091324071763565202.jpg",Star chinese Movies
+http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/StarPlus_logo.jpg/220px-StarPlus_logo.jpg",star plus
+http://iliketot.dyndns.tv/7c75ad89c1cc417aa0f066133c0a2333.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Star_Gold_Logo.jpg/220px-Star_Gold_Logo.jpg",Star Gold
+http://iliketot.dyndns.tv/53c2bf7e52a44fd8b6df7f9e83891bbc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://imgcloud.fwiptv.cc/postor/20171208015053Aktion.jpg",Aktion
+http://iliketot.dyndns.tv/fb4f5dd12f92435294619b573dd64f56.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://imgcloud.fwiptv.cc/postor/20140110012228ms.jpg",MAJOR MIX
+http://iliketot.dyndns.tv/ab6acb38607a4aff9dc773a6772c91fc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://imgcloud.fwiptv.cc/postor/20190218201201images.jpg",Cool Channel
+http://iliketot.dyndns.tv/205930751d5743e2be719ed1dff8970f.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="http://www.totiptv.com/Product/Channel/images/NHANG_DUNK.png",NHANG DUNK
+http://iliketot.dyndns.tv/421e292010ae48088265ce25059fd041.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20170708213058567372301.jpg",Movies 1
+http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/201707082131441239733741.jpg",Movies 2
+http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20170708213208929757171.jpg",Movies 3
+http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="http://image.free.in.th/v/2013/iy/180723045313.jpg",UP Movies
+http://27.254.149.109:8081/live/upmovie.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/201707082147541150565441.jpg",zeenang
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/zeenang/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20190710115540375048648.jpg",Drema Thai
+https://edge1a.v2h-cdn.com/appt4/TVB.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/201804041103021708743536.jpg",CCM
+
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20170709090502720443899.jpg",CTB 
+http://vip.login.in.th:1935/CTB/CTB/chunklist_w1645421209.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="http://image.free.in.th/v/2013/ic/180708120008.jpg",Channel8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="http://image.free.in.th/v/2013/il/180806015437.jpg",Thai CCTV
+http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://f.ptcdn.info/288/058/000/pavp0r3fv2XLVMHFZlf-s.jpg", SERIES CHANNEL
+http://stream.rs.co.th/you-hi/index.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/JKN.jpg",JKN
+https://live.youlive-cdn.com/02_JKN_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/m-channel.jpg",M CHANNEL
+https://live.youlive-cdn.com/02_MChannel_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/201801301516261971647980.jpg",MONO PLUS
+http://iliketot.dyndns.tv/9623847065ba466e90632cf686fade0b.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY
+https://live.we-play.tv/app/history/playlist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY
+https://live.youlive-cdn.com/02_HISTORYHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2
+https://live.we-play.tv/app/h2/playlist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2
+https://live.youlive-cdn.com/02_H2HD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doohdbox.com/assets/201907201150501230230057.jpg",Discovery Asia
+https://live.youlive-cdn.com/02_DiscoveryHDWorld/chunklist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/discovery.png",DISCOVERY
+https://live.we-play.tv/app/discovery/playlist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/discovery.png",DISCOVERY
+https://live.youlive-cdn.com/02_DiscoveryChannel/chunklist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natwild.png",NATGEO WILD TH
+https://live.youlive-cdn.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natwild.png",NATGEO WILD
+https://live.youlive-cdn.com/02_NatGeoWild_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natgeo.png",NATIONAL GEOGRAPHIC TH
+https://live.we-play.tv/app/natgeo/playlist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natgeo.png",NATIONAL GEOGRAPHIC TH
+https://live.youlive-cdn.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natgeo.png",NATIONAL GEOGRAPHIC
+https://live.youlive-cdn.com/02_NatGeoHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natpeople.png",NATGEO PEOPLE
+https://live.youlive-cdn.com/02_NatPeopleHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/animalplanet.png",ANIMAL PLANET
+https://live.youlive-cdn.com/02_AnimalPlanet/chunklist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doohdbox.com/assets/20170708172303119089635.jpg",SAMRUJLOK
+https://live.youlive-cdn.com/sumrujlok_goodtv/chunklist.m3u8
+
+#EXTINF:-1 group-title="บันเทิง"tvg-logo="https://teevee-hd.com/img/mtvlive.png",MTV LIVE
+http://iliketot.dyndns.tv/8d45473ff4ca44d79e1abc4516c2fee0.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="บันเทิง"tvg-logo="https://teevee-hd.com/img/mtvchina.png",MTV China
+http://iliketot.dyndns.tv/deb56e700dbc4d9ea5af08e9d300a675.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="บันเทิง"tvg-logo="https://teevee-hd.com/img/mtvasia.png",MTV ASiA
+http://iliketot.dyndns.tv/ebce2f5139c54eda8b111e5923af9c9e.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="เพลง"tvg-logo="https://teevee-hd.com/img/channelv.png",CHANNEL V
+http://iliketot.dyndns.tv/9e38a0084e6d45d080139a166c60a102.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="บันเทิง"tvg-logo="https://images.ufoiptv.com/channels/hd-comedycentral.jpg",ComedyCentralHD
+http://iliketot.dyndns.tv/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="บันเทิง"tvg-logo="https://www.doohdbox.com/assets/201709292104041352340026.jpg",FTV
+http://iliketot.dyndns.tv/df468a12ae6547de9637486bdc2025aa.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="บันเทิง"tvg-logo="https://www.doohdbox.com/assets/201811021031252046208999.jpg",STAR K
+http://iliketot.dyndns.tv/d02705574b324e1dad34fe2eff631eb0.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="บันเทิง"tvg-logo="https://teevee-hd.com/img/rtl_extreme.png",BLUEANT EXTREME
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 group-title="บันเทิง"tvg-logo="https://teevee-hd.com/img/rtl_entertainment.png",BLUEANT ENTERAINMENT
+http://45.126.83.51/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 group-title="บันเทิง"tvg-logo="https://www.doohdbox.com/assets/201707110937561658162639.jpg",GEM
+http://45.126.83.51/uq2663/h/h19/index.m3u8
+
+#EXTINF:-1 group-title="บันเทิง"tvg-logo="https://www.doohdbox.com/assets/20170919195239307007152.jpg",E-CHANNEL
+http://45.126.83.51/uq2663/h/h10/index.m3u8
+
+#EXTINF:-1 group-title="บันเทิง"tvg-logo="https://imgcloud.fwiptv.cc/postor/20180914183340TMG.jpg",แสงจันทร์ ทีวี
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/sangjun.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="บันเทิง"tvg-logo="https://imgcloud.fwiptv.cc/postor/20190704144622%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%8A%E0%B8%99%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99.jpg",ไก่ชนเงินล้าน
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/battle2.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="บันเทิง"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181006131528tinti.jpg",ถิ่นใต้ IPTV
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/battle.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="บันเทิง"tvg-logo="https://imgcloud.fwiptv.cc/postor/20190804212847sammuang.jpg",สามเมือง ชาแนล
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/sammuang.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="เพลง"tvg-logo="http://image.free.in.th/v/2013/ij/180713075126.gif",GREENWAVE
+http://203.146.102.153:1935/live/rtmp:greenlive.sdp/chunklist.m3u8
+
+#EXTINF:-1 group-title="บันเทิง"tvg-logo="https://www.doohdbox.com/assets/201707121010421211349166.jpg",สบายดี ทีวี
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/sabaideetv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="บันเทิง"tvg-logo="https://teevee-hd.com/img/fantv.png",FAN TV
+https://live.youlive-cdn.com/02_FANMUSICHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CARTOON NETWORK
+https://live.youlive-cdn.com/02_CartoonNetwork_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEYXD
+https://live.youlive-cdn.com/02_DisneyXD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/nickjr.png",Nick jr.
+http://iliketot.dyndns.tv/2b72986be9314c139db95f6098d1c413.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/babytv.png",Baby TV
+http://iliketot.dyndns.tv/7773f3cef0334a28ad248552ea63d9e7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://imgcloud.fwiptv.cc/postor/2019032506051812377635_206785022990745_2323450990199693871_o.jpg",MIAO MI
+http://iliketot.dyndns.tv/31e91f76119a44b4bd1a9822f3d6b5be.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/20181110075722846215341.jpg",ANIPLUS
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/201707071723021769536352.jpg",CARTOON CLUB
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/201707071722101651784091.jpg",GANG CRRTOON
+https://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_500.m3u8
+
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/20170707172140156012597.jpg",BOOMERANG
+http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
+
+
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premiere HD1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",สำรอง HD1
+http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",สำรอง HD1
+https://tvrealtime.com/live/BEIN1/chunks.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premiere HD2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",สำรอง HD2
+http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",สำรอง HD2
+https://tvrealtime.com/live/BEIN2/chunks.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball3.png",Premiere HD3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball3.png",สำรอง HD3
+http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball3.png",สำรอง HD3
+https://tvrealtime.com/live/BEIN3/chunks.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball4.png",Premiere HD4
+https://live.youlive-cdn.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball4.png",สำรอง HD4
+http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball4.png",สำรอง HD4
+https://tvrealtime.com/live/BEIN4/chunks.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premiere HD5
+https://live.youlive-cdn.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",สำรอง HD5
+http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",สำรอง HD5
+https://tvrealtime.com/live/BEIN5/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="กีฬา2"tvg-logo="https://teevee-hd.com/img/bein1.png",BEIN_SPORT_1
+http://tv2iptv.com:8000/live/Faysal/faysal123/18761.m3u8
+#EXTINF:-1 group-title="กีฬา2"tvg-logo="https://teevee-hd.com/img/bein2.png",BEIN_SPORT_2
+http://tv2iptv.com:8000/live/Faysal/faysal123/18760.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_SPORT_3
+http://tv2iptv.com:8000/live/Faysal/faysal123/18759.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_SPORT_4
+http://tv2iptv.com:8000/live/Faysal/faysal123/18758.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_SPORT_5
+http://tv2iptv.com:8000/live/Faysal/faysal123/18757.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_SPORT_6
+http://tv2iptv.com:8000/live/Faysal/faysal123/18756.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_SPORT_7
+http://tv2iptv.com:8000/live/Faysal/faysal123/18755.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_SPORT_8
+http://tv2iptv.com:8000/live/Faysal/faysal123/18754.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_SPORT_9
+http://tv2iptv.com:8000/live/Faysal/faysal123/18753.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_SPORT_10
+http://tv2iptv.com:8000/live/Faysal/faysal123/18752.m3u8
+#EXTINF:-1 group-title="กีฬา2"tvg-logo="https://teevee-hd.com/img/bein1.png",BEIN_SPORT_1_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/17770.m3u8
+#EXTINF:-1 group-title="กีฬา2"tvg-logo="https://teevee-hd.com/img/bein2.png",BEIN_SPORT_2_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/17769.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_SPORT_3_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/17768.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_SPORT_4_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/17767.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_SPORT_5_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/17766.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_SPORT_6_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/17765.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_SPORT_7_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/17764.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_SPORT_8_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/17763.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_SPORT_9_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/17762.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_SPORT_10_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/17761.m3u8
+#EXTINF:-1 group-title="กีฬา2"tvg-logo="https://teevee-hd.com/img/bein1.png",BEIN_1_4K
+http://tv2iptv.com:8000/live/Faysal/faysal123/22780.m3u8
+#EXTINF:-1 group-title="กีฬา2"tvg-logo="https://teevee-hd.com/img/bein2.png",BEIN_2_4K
+http://tv2iptv.com:8000/live/Faysal/faysal123/22779.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_3_4K
+http://tv2iptv.com:8000/live/Faysal/faysal123/22778.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_4_4K
+http://tv2iptv.com:8000/live/Faysal/faysal123/22777.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_5_4K
+http://tv2iptv.com:8000/live/Faysal/faysal123/22776.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_6_4K
+http://tv2iptv.com:8000/live/Faysal/faysal123/22775.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_7_4K
+http://tv2iptv.com:8000/live/Faysal/faysal123/22774.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_8_4K
+http://tv2iptv.com:8000/live/Faysal/faysal123/22773.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_9_4K
+http://tv2iptv.com:8000/live/Faysal/faysal123/22772.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN_10_4K
+http://tv2iptv.com:8000/live/Faysal/faysal123/22771.m3u8
+#EXTINF:-1 group-title="กีฬา2"tvg-logo="https://teevee-hd.com/img/bein1.png",BEIN-SPORT-1-SD
+http://tv2iptv.com:8000/live/Faysal/faysal123/48.m3u8
+#EXTINF:-1 group-title="กีฬา2"tvg-logo="https://teevee-hd.com/img/bein2.png",BEIN-SPORT-2-SD
+http://tv2iptv.com:8000/live/Faysal/faysal123/47.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-3-SD
+http://tv2iptv.com:8000/live/Faysal/faysal123/46.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-4-SD
+http://tv2iptv.com:8000/live/Faysal/faysal123/45.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-5-SD
+http://tv2iptv.com:8000/live/Faysal/faysal123/44.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-6-SD
+http://tv2iptv.com:8000/live/Faysal/faysal123/43.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-7-SD
+http://tv2iptv.com:8000/live/Faysal/faysal123/41.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-8-SD
+http://tv2iptv.com:8000/live/Faysal/faysal123/40.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-9-SD
+http://tv2iptv.com:8000/live/Faysal/faysal123/39.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-10-SD
+http://tv2iptv.com:8000/live/Faysal/faysal123/42.m3u8
+#EXTINF:-1 group-title="กีฬา2"tvg-logo="https://teevee-hd.com/img/bein1.png",beIN Sports 1HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/25813.m3u8
+#EXTINF:-1 group-title="กีฬา2"tvg-logo="https://teevee-hd.com/img/bein2.png",beIN Sports 2HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/25812.m3u8
+#EXTINF:-1 group-title="กีฬา2",beIN Sports 3HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/25811.m3u8
+#EXTINF:-1 group-title="กีฬา2",beIN Sports 4HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/25810.m3u8
+#EXTINF:-1 group-title="กีฬา2",beIN Sports 5HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/25809.m3u8
+#EXTINF:-1 group-title="กีฬา2",beIN Sports 6HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/25808.m3u8
+#EXTINF:-1 group-title="กีฬา2",beIN Sports 7HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/25807.m3u8
+#EXTINF:-1 group-title="กีฬา2",beIN Sports 8HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/25806.m3u8
+#EXTINF:-1 group-title="กีฬา2",beIN Sports 9HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/25805.m3u8
+#EXTINF:-1 group-title="กีฬา2",beIN Sports 10HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/25804.m3u8
+#EXTINF:-1 group-title="กีฬา2"tvg-logo="https://teevee-hd.com/img/bein1.png",BEIN-SPORT-1-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/29.m3u8
+#EXTINF:-1 group-title="กีฬา2"tvg-logo="https://teevee-hd.com/img/bein1.png",BEIN-SPORT-2-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-3-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/31.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-4-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/32.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-5-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/33.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-6-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/34.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-7-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-8-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/36.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-9-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/37.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-10-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/38.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-11-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/1033.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-12-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/1034.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-13-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/1035.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-14-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/1036.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-15-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/23529.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-16-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/23528.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-NBA-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/23526.m3u8
+#EXTINF:-1 group-title="กีฬา2",Bein-1-hevc
+http://tv2iptv.com:8000/live/Faysal/faysal123/34640.m3u8
+#EXTINF:-1 group-title="กีฬา2",Bein-2-hevc
+http://tv2iptv.com:8000/live/Faysal/faysal123/34639.m3u8
+#EXTINF:-1 group-title="กีฬา2",Bein-3-hevc
+http://tv2iptv.com:8000/live/Faysal/faysal123/34638.m3u8
+#EXTINF:-1 group-title="กีฬา2",Bein-4-hevc
+http://tv2iptv.com:8000/live/Faysal/faysal123/34637.m3u8
+#EXTINF:-1 group-title="กีฬา2",Bein-5-hevc
+http://tv2iptv.com:8000/live/Faysal/faysal123/34636.m3u8
+#EXTINF:-1 group-title="กีฬา2",Bein-6-hevc
+http://tv2iptv.com:8000/live/Faysal/faysal123/34635.m3u8
+#EXTINF:-1 group-title="กีฬา2",Bein-7-hevc
+http://tv2iptv.com:8000/live/Faysal/faysal123/34634.m3u8
+#EXTINF:-1 group-title="กีฬา2",Bein-8-hevc
+http://tv2iptv.com:8000/live/Faysal/faysal123/34633.m3u8
+#EXTINF:-1 group-title="กีฬา2",Bein-9-hevc
+http://tv2iptv.com:8000/live/Faysal/faysal123/34632.m3u8
+#EXTINF:-1 group-title="กีฬา2",Bein-10-hevc
+http://tv2iptv.com:8000/live/Faysal/faysal123/34631.m3u8
+#EXTINF:-1 group-title="กีฬา2",Bein11-hevc
+http://tv2iptv.com:8000/live/Faysal/faysal123/47779.m3u8
+#EXTINF:-1 group-title="กีฬา2",Bein12-hevc
+http://tv2iptv.com:8000/live/Faysal/faysal123/47780.m3u8
+#EXTINF:-1 group-title="กีฬา2",AR:TIME-SPORTS
+http://tv2iptv.com:8000/live/Faysal/faysal123/50495.m3u8
+#EXTINF:-1 group-title="กีฬา2",AR:TIME-SPORTS-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/50496.m3u8
+#EXTINF:-1 group-title="กีฬา2",AR:ONE-Sport
+http://tv2iptv.com:8000/live/Faysal/faysal123/3792.m3u8
+#EXTINF:-1 group-title="กีฬา2",AR:ONE-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/3787.m3u8
+#EXTINF:-1 group-title="กีฬา2",AR:ON-Live-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/3789.m3u8
+#EXTINF:-1 group-title="กีฬา2",AR:ON-Sport-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/3793.m3u8
+#EXTINF:-1 group-title="กีฬา2",AD_SPORT_1HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/4949.m3u8
+#EXTINF:-1 group-title="กีฬา2",AD_SPORT_2HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/4950.m3u8
+#EXTINF:-1 group-title="กีฬา2",AD_SPORT_3HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/4951.m3u8
+#EXTINF:-1 group-title="กีฬา2",AD_SPORT_4HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/4952.m3u8
+#EXTINF:-1 group-title="กีฬา2",AD_SPORT_5HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/4953.m3u8
+#EXTINF:-1 group-title="กีฬา2",AR:Dubai-Sports-1.
+http://tv2iptv.com:8000/live/Faysal/faysal123/8579.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-NEWS
+http://tv2iptv.com:8000/live/Faysal/faysal123/3524.m3u8
+#EXTINF:-1 group-title="กีฬา2",BEIN-SPORT-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/3528.m3u8
+#EXTINF:-1 group-title="กีฬา2",yes Sport 1
+http://tv2iptv.com:8000/live/Faysal/faysal123/60515.m3u8
+#EXTINF:-1 group-title="กีฬา2",yes Sport 2
+http://tv2iptv.com:8000/live/Faysal/faysal123/60514.m3u8
+#EXTINF:-1 group-title="กีฬา2",yes Sport 3
+http://tv2iptv.com:8000/live/Faysal/faysal123/60513.m3u8
+#EXTINF:-1 group-title="กีฬา2",yes Sport 4
+http://tv2iptv.com:8000/live/Faysal/faysal123/60512.m3u8
+#EXTINF:-1 group-title="กีฬา2",yes Sport 5
+http://tv2iptv.com:8000/live/Faysal/faysal123/60511.m3u8
+#EXTINF:-1 group-title="กีฬา2",CA : SPORTSNET 360 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/37794.m3u8
+#EXTINF:-1 group-title="กีฬา2",CA : SPORTSNET EAST HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/37793.m3u8
+#EXTINF:-1 group-title="กีฬา2",CA : SPORTSNET ONE HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/37792.m3u8
+#EXTINF:-1 group-title="กีฬา2",CA : SPORTSNET ONTARIO HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/37791.m3u8
+#EXTINF:-1 group-title="กีฬา2",CA : SPORTSNET PACIFIC HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/37790.m3u8
+#EXTINF:-1 group-title="กีฬา2",CA : Sportsnet West HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/21486.m3u8
+#EXTINF:-1 group-title="กีฬา2",CA : SPORTSNET WORLD HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/37789.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : FOX SPORTS HD 1
+http://tv2iptv.com:8000/live/Faysal/faysal123/37581.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : FOX SPORTS HD 2
+http://tv2iptv.com:8000/live/Faysal/faysal123/37580.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : ELEVEN SPORTS HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/37621.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : SPORTS MAN HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/37454.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : STADIUM HD 1
+http://tv2iptv.com:8000/live/Faysal/faysal123/37452.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : STADIUM HD 2
+http://tv2iptv.com:8000/live/Faysal/faysal123/37451.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : STADIUM HD 3
+http://tv2iptv.com:8000/live/Faysal/faysal123/37450.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : STADIUM HD ORIGINAL
+http://tv2iptv.com:8000/live/Faysal/faysal123/37449.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : BEIN SPORTS HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/37648.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : CBSN HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/37669.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : ESPN NEWS HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/37616.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : BEIN SPORTS HD 2
+http://tv2iptv.com:8000/live/Faysal/faysal123/37647.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : BEIN 1 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/37646.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : FOX SPORTS TENNESSE
+http://tv2iptv.com:8000/live/Faysal/faysal123/37567.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : ESPN U HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/37615.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : FIGHT NETWORK HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/37614.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : AFN SPORTS 2 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/37715.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : FOX SPORTS WISCONSIN
+http://tv2iptv.com:8000/live/Faysal/faysal123/37563.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : BEIN 6 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/37641.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : BEIN 7 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/37640.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : BEIN 8 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/37639.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : BEIN 9 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/37638.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : BEIN SPORTS MAX HD 1
+http://tv2iptv.com:8000/live/Faysal/faysal123/37636.m3u8
+#EXTINF:-1 group-title="กีฬา2",USA : BEIN 10 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/37637.m3u8
+#EXTINF:-1 group-title="กีฬา2",IT: Sky Sport Uno HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/20855.m3u8
+#EXTINF:-1 group-title="กีฬา2",IT: Sky Sport Serie A HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/20853.m3u8
+#EXTINF:-1 group-title="กีฬา2",IT: Sky Sport NBA HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/20850.m3u8
+#EXTINF:-1 group-title="กีฬา2",IT: Sky Sport MotoGP HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/20848.m3u8
+#EXTINF:-1 group-title="กีฬา2",IT: Sky Sport Golf HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/20851.m3u8
+#EXTINF:-1 group-title="กีฬา2",IT: Sky Sport Football HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/20854.m3u8
+#EXTINF:-1 group-title="กีฬา2",IT: Sky Sport F1 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/20849.m3u8
+#EXTINF:-1 group-title="กีฬา2",IT: Sky Sport Arena HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/20852.m3u8
+#EXTINF:-1 group-title="กีฬา2",IT: Sky Sport 24 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/20856.m3u8
+#EXTINF:-1 group-title="กีฬา2",IT: Rai Sport Plus
+http://tv2iptv.com:8000/live/Faysal/faysal123/20825.m3u8
+#EXTINF:-1 group-title="กีฬา2",IT: Rai Sport Plus HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/20824.m3u8
+#EXTINF:-1 group-title="กีฬา2",IT: Rai Sport   HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/20826.m3u8
+#EXTINF:-1 group-title="กีฬา2",IT: Premium Sport 2 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/20837.m3u8
+#EXTINF:-1 group-title="กีฬา2",IT: Premium Sport 1 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/20838.m3u8
+#EXTINF:-1 group-title="กีฬา2",ES: BEIN LA LIGA
+http://tv2iptv.com:8000/live/Faysal/faysal123/39939.m3u8
+#EXTINF:-1 group-title="กีฬา2",ES: BEIN LA LIGA HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/39940.m3u8
+#EXTINF:-1 group-title="กีฬา2",ES: BEIN LA LIGA 1
+http://tv2iptv.com:8000/live/Faysal/faysal123/39938.m3u8
+#EXTINF:-1 group-title="กีฬา2",ES: BEIN LA LIGA 2
+http://tv2iptv.com:8000/live/Faysal/faysal123/39937.m3u8
+#EXTINF:-1 group-title="กีฬา2",ES: BEIN LA LIGA 3
+http://tv2iptv.com:8000/live/Faysal/faysal123/39936.m3u8
+#EXTINF:-1 group-title="กีฬา2",ES: BEIN LA LIGA 5
+http://tv2iptv.com:8000/live/Faysal/faysal123/39935.m3u8
+#EXTINF:-1 group-title="กีฬา2",ES: BEIN LA LIGA 6
+http://tv2iptv.com:8000/live/Faysal/faysal123/39934.m3u8
+#EXTINF:-1 group-title="กีฬา2",ES: BEIN LA LIGA 7
+http://tv2iptv.com:8000/live/Faysal/faysal123/39933.m3u8
+#EXTINF:-1 group-title="กีฬา2",ES: REAL MADRID TV
+http://tv2iptv.com:8000/live/Faysal/faysal123/39907.m3u8
+#EXTINF:-1 group-title="กีฬา2",ES: REAL MADRID TV HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/39906.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:Boxnation
+http://tv2iptv.com:8000/live/Faysal/faysal123/20033.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK: BT Sport 1 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/20034.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK: BT Sport 2 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/20035.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK: BT Sport 3 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/20036.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:BT_Sports_ESPN
+http://tv2iptv.com:8000/live/Faysal/faysal123/20037.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:BT_SPORT_1
+http://tv2iptv.com:8000/live/Faysal/faysal123/20038.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:BT_SPORT_2
+http://tv2iptv.com:8000/live/Faysal/faysal123/20039.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:BT_SPORT_3
+http://tv2iptv.com:8000/live/Faysal/faysal123/20040.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:BT_Sport_Extra_1
+http://tv2iptv.com:8000/live/Faysal/faysal123/20041.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:BT_Sport_Extra_2
+http://tv2iptv.com:8000/live/Faysal/faysal123/20042.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:BT_Sport_Extra_3
+http://tv2iptv.com:8000/live/Faysal/faysal123/20043.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:BT_Sport_Extra_4
+http://tv2iptv.com:8000/live/Faysal/faysal123/20044.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:BT_Sport_Extra_5
+http://tv2iptv.com:8000/live/Faysal/faysal123/20045.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK: Cartoon Network
+http://tv2iptv.com:8000/live/Faysal/faysal123/20047.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:eir_Sport_1
+http://tv2iptv.com:8000/live/Faysal/faysal123/20080.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:Eurosport_1_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/20081.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:Eurosport_2_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/20082.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:Sky_Sports_Action
+http://tv2iptv.com:8000/live/Faysal/faysal123/20159.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:Sky_Sports_Arena
+http://tv2iptv.com:8000/live/Faysal/faysal123/20160.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:Sky_Sports_Cricket
+http://tv2iptv.com:8000/live/Faysal/faysal123/20161.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:SKY_SPORTS_F1
+http://tv2iptv.com:8000/live/Faysal/faysal123/20162.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:Sky_Sports_Football
+http://tv2iptv.com:8000/live/Faysal/faysal123/20163.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:Sky_Sports_Golf
+http://tv2iptv.com:8000/live/Faysal/faysal123/20164.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:Sky_Sports_Main_Event
+http://tv2iptv.com:8000/live/Faysal/faysal123/20165.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:SKY_SPORTS_NEWS
+http://tv2iptv.com:8000/live/Faysal/faysal123/20167.m3u8
+#EXTINF:-1 group-title="กีฬา2",UK:Sky_Sports_Premier_League
+http://tv2iptv.com:8000/live/Faysal/faysal123/20168.m3u8
+#EXTINF:-1 group-title="กีฬา2",DE:Sky-Sport-Austria-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/25699.m3u8
+#EXTINF:-1 group-title="กีฬา2",DE:Sky-Sport-News-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/25660.m3u8
+#EXTINF:-1 group-title="กีฬา2",DE:Sky-Sports-News-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/25700.m3u8
+#EXTINF:-1 group-title="กีฬา2",DE:Fox-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/25757.m3u8
+#EXTINF:-1 group-title="กีฬา2",DE:Eurosport-1-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/25755.m3u8
+#EXTINF:-1 group-title="กีฬา2",DE:Eurosport-2-HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/25756.m3u8
+#EXTINF:-1 group-title="กีฬา2",DE:Eurosport-2-HD-Xtra
+http://tv2iptv.com:8000/live/Faysal/faysal123/25770.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_BeinSport1_FULLHD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30602.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_BeinSport1_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30601.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_BeinSport1_SD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30600.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_BeinSport2_FULLHD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30599.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_BeinSport2_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30598.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_BeinSport2_SD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30597.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_BeinSport3_FULLHD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30596.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_BeinSport3_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30595.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_BeinSport3_SD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30594.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_BeinSportMax10
+http://tv2iptv.com:8000/live/Faysal/faysal123/30587.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_BeinSportMax4
+http://tv2iptv.com:8000/live/Faysal/faysal123/30593.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_BeinSportMax5
+http://tv2iptv.com:8000/live/Faysal/faysal123/30592.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_BeinSportMax6
+http://tv2iptv.com:8000/live/Faysal/faysal123/30591.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_BeinSportMax7
+http://tv2iptv.com:8000/live/Faysal/faysal123/30590.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_BeinSportMax8
+http://tv2iptv.com:8000/live/Faysal/faysal123/30589.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_BeinSportMax9
+http://tv2iptv.com:8000/live/Faysal/faysal123/30588.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_CANAL+SPORT_FULLHD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30652.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_CANAL+SPORT_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30651.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_CANAL+SPORT_SD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30650.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_EQUIDIA
+http://tv2iptv.com:8000/live/Faysal/faysal123/30583.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_EQUIDIA_LIFE
+http://tv2iptv.com:8000/live/Faysal/faysal123/30582.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_EQUIPE21_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30525.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_Euronews_France
+http://tv2iptv.com:8000/live/Faysal/faysal123/30524.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_EUROSPORT1_france
+http://tv2iptv.com:8000/live/Faysal/faysal123/30527.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_EUROSPORT_2_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30526.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_EXTREME_SPORT_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30578.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_FOOT+
+http://tv2iptv.com:8000/live/Faysal/faysal123/30586.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_INFOSPORT+
+http://tv2iptv.com:8000/live/Faysal/faysal123/30585.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_RMC_SPORT10_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30606.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_RMC_SPORT11HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30605.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_RMC_SPORT12HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30604.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_RMC_SPORT13HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30603.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_RMC_SPORT1_FULLHD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30616.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_RMC_SPORT1_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30615.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_RMC_SPORT2_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30614.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_RMC_SPORT3_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30613.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_RMC_SPORT4_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30612.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_RMC_SPORT5_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30611.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_RMC_SPORT6_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30610.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_RMC_SPORT7_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30609.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_RMC_SPORT8_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30608.m3u8
+#EXTINF:-1 group-title="กีฬา2",FR:_RMC_SPORT9_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/30607.m3u8
+#EXTINF:-1 group-title="กีฬา2",PT:SportTV1
+http://tv2iptv.com:8000/live/Faysal/faysal123/8132.m3u8
+#EXTINF:-1 group-title="กีฬา2",PT:SportTV2
+http://tv2iptv.com:8000/live/Faysal/faysal123/8131.m3u8
+#EXTINF:-1 group-title="กีฬา2",PT:SportTV3
+http://tv2iptv.com:8000/live/Faysal/faysal123/8130.m3u8
+#EXTINF:-1 group-title="กีฬา2",PT:SportTV4
+http://tv2iptv.com:8000/live/Faysal/faysal123/8129.m3u8
+#EXTINF:-1 group-title="กีฬา2",PT:SportTV5
+http://tv2iptv.com:8000/live/Faysal/faysal123/8124.m3u8
+#EXTINF:-1 group-title="กีฬา2",RU:MatcH
+http://tv2iptv.com:8000/live/Faysal/faysal123/13373.m3u8
+#EXTINF:-1 group-title="กีฬา2",RU:Match_Nash_Sport
+http://tv2iptv.com:8000/live/Faysal/faysal123/13374.m3u8
+#EXTINF:-1 group-title="กีฬา2",RU:Match_Sport
+http://tv2iptv.com:8000/live/Faysal/faysal123/13375.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: ARENA SPORT 1 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/36036.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: ARENA SPORT 1 HD HR
+http://tv2iptv.com:8000/live/Faysal/faysal123/36035.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: ARENA SPORT 1 Srb
+http://tv2iptv.com:8000/live/Faysal/faysal123/36034.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: ARENA SPORT 2 Srb
+http://tv2iptv.com:8000/live/Faysal/faysal123/36033.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Arena Sport 3
+http://tv2iptv.com:8000/live/Faysal/faysal123/36032.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: ARENA SPORT 4 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/36031.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: ARENA SPORT 4 Srb
+http://tv2iptv.com:8000/live/Faysal/faysal123/36030.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: ARENA SPORT 5 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/36029.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: ARENA SPORT 5 Srb
+http://tv2iptv.com:8000/live/Faysal/faysal123/36028.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: DIGI SPORT 1
+http://tv2iptv.com:8000/live/Faysal/faysal123/36002.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: DIGI SPORT 2
+http://tv2iptv.com:8000/live/Faysal/faysal123/36001.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: DIGI SPORT 3
+http://tv2iptv.com:8000/live/Faysal/faysal123/36000.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: DIGI SPORT 4
+http://tv2iptv.com:8000/live/Faysal/faysal123/35999.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Kujtesa Sport 1 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35883.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Kujtesa Sport 2 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35882.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Kujtesa Sport 3 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35881.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Kujtesa Sport 4 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35880.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: SPORT KLUB 1 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35765.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: SPORT KLUB 2 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35764.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: SPORT KLUB 3 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35763.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Sport Kosova 1 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35762.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Sport News HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35761.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Super Sport 1 News
+http://tv2iptv.com:8000/live/Faysal/faysal123/35750.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Super Sport 2 FHD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35749.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Super Sport 3 FHD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35748.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Super Sport 4 FHD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35747.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Super Sport 5 FHD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35746.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Super Sport 6 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35745.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: SUPER SPORT KOSAVA 1 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35744.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Super Sport Kosova 1 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35743.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Super Sport Kosova 2 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35742.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Super Sport Kosova 3 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35741.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Super Sport Kosovo 1 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35740.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Super Sport Kosovo 2 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35739.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Super Sport KS 1
+http://tv2iptv.com:8000/live/Faysal/faysal123/35738.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Super Sport KS 2
+http://tv2iptv.com:8000/live/Faysal/faysal123/35737.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Super Sport News HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35736.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Tring Sport 1 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35692.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Tring Sport 2 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35691.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Tring Sport 3 FHD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35690.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Tring Sport 4 HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35689.m3u8
+#EXTINF:-1 group-title="กีฬา2",AL: Tring Sport News HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/35688.m3u8
+#EXTINF:-1 group-title="กีฬา2",ALB_SuperSport_1
+http://tv2iptv.com:8000/live/Faysal/faysal123/3326.m3u8
+#EXTINF:-1 group-title="กีฬา2",ALB_SuperSport_2
+http://tv2iptv.com:8000/live/Faysal/faysal123/3325.m3u8
+#EXTINF:-1 group-title="กีฬา2",ALB_SuperSport_3
+http://tv2iptv.com:8000/live/Faysal/faysal123/3324.m3u8
+#EXTINF:-1 group-title="กีฬา2",ALB_SuperSport_4
+http://tv2iptv.com:8000/live/Faysal/faysal123/3323.m3u8
+#EXTINF:-1 group-title="กีฬา2",ALB_SuperSport_6
+http://tv2iptv.com:8000/live/Faysal/faysal123/3321.m3u8
+#EXTINF:-1 group-title="กีฬา2",ALB_SUPER_SPORT_KOSOVO_2_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/3320.m3u8
+#EXTINF:-1 group-title="กีฬา2",[NL]FoxSport-HD1
+http://tv2iptv.com:8000/live/Faysal/faysal123/13949.m3u8
+#EXTINF:-1 group-title="กีฬา2",[NL]FoxSport-HD2
+http://tv2iptv.com:8000/live/Faysal/faysal123/13948.m3u8
+#EXTINF:-1 group-title="กีฬา2",[NL]FoxSport-HD3
+http://tv2iptv.com:8000/live/Faysal/faysal123/13947.m3u8
+#EXTINF:-1 group-title="กีฬา2",[NL]FoxSport-HD4
+http://tv2iptv.com:8000/live/Faysal/faysal123/13946.m3u8
+#EXTINF:-1 group-title="กีฬา2",[NL]FoxSport-HD5
+http://tv2iptv.com:8000/live/Faysal/faysal123/13945.m3u8
+#EXTINF:-1 group-title="กีฬา2",[NL]FoxSport-HD6
+http://tv2iptv.com:8000/live/Faysal/faysal123/13953.m3u8
+#EXTINF:-1 group-title="กีฬา2",PT:Sporting_TV
+http://tv2iptv.com:8000/live/Faysal/faysal123/5074.m3u8
+#EXTINF:-1 group-title="กีฬา2",PT:SPORT_TV_1_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/5069.m3u8
+#EXTINF:-1 group-title="กีฬา2",PT:SPORT_TV_2_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/5068.m3u8
+#EXTINF:-1 group-title="กีฬา2",PT:SPORT_TV_3_HD
+http://tv2iptv.com:8000/live/Faysal/faysal123/5067.m3u8
+#EXTINF:-1 group-title="กีฬา2",RO:DIGISPORT1
+http://tv2iptv.com:8000/live/Faysal/faysal123/9161.m3u8
+#EXTINF:-1 group-title="กีฬา2",RO:DIGISPORT2
+http://tv2iptv.com:8000/live/Faysal/faysal123/9160.m3u8
+#EXTINF:-1 group-title="กีฬา2",RO:DIGISPORT3
+http://tv2iptv.com:8000/live/Faysal/faysal123/9159.m3u8
+#EXTINF:-1 group-title="กีฬา2",RO:DIGISPORT4
+http://tv2iptv.com:8000/live/Faysal/faysal123/9158.m3u8
+
+
+
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/bein1.png",BeinSport 1
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/bein2.png",BeinSport 2 
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/tsphd1.png",TRUESPORT HD
+https://live.youlive-cdn.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/tsphd1.png",TRUESPORT HD
+http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/tsphd2.png",TRUESPORT HD2
+https://live.youlive-cdn.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/tsphd2.png",TRUESPORT HD2
+http://103.208.24.234:1935/thaisport/hd-tsport2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/tsphd3.png",TRUESPORT HD3
+https://live.youlive-cdn.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/tsphd3.png",TRUESPORT HD3
+http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/tsphd4.png",TRUESPORT HD4
+https://live.youlive-cdn.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/tsphd4.png",TRUESPORT HD4
+http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/nba.png",NBA TV
+http://103.208.24.234:1935/thaisport/hd-nba.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/nba.png",NBA TV
+https://live.youlive-cdn.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/tennis.png",Tennis
+http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/tennis.png",Tennis
+https://live.youlive-cdn.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/golf.png",Golf channel
+http://103.208.24.234:1935/thaisport/hd-golf.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/golf.png",Golf channel
+https://live.youlive-cdn.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/foxsport1.png",FOX SPORTS HD
+https://live.youlive-cdn.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/foxsport1.png",FOX SPORTS HD
+http://103.208.24.234:1935/thaisport/hd-foxsports1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/foxsport1.png",FOX SPORTS HD
+https://tvrealtime.com/live/FOXSPORT1/chunks.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/foxsport2.png",FOX SPORTS 2
+http://103.208.24.234:1935/thaisport/sd-foxsports2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/foxsport2.png",FOX SPORTS 2
+http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/foxsport2.png",FOX SPORTS 2
+https://live.youlive-cdn.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/foxsport2.png",FOX SPORTS 2
+https://tvrealtime.com/live/FOXSPORT2/chunks.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/foxsport3.png",FOX SPORTS 3
+https://live.youlive-cdn.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/foxsport3.png",FOX SPORTS 3
+http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/foxsport3.png",FOX SPORTS 3
+http://iliketot.dyndns.tv/443ea6ef1768462aaffdff38ce2a4355.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/foxsport3.png",FOX SPORTS 3
+https://tvrealtime.com/live/FOXSPORT3/chunks.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181127121521True_sport2.jpg",TRUE SPORT 2
+https://live.youlive-cdn.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112204True_sport5.jpg",TRUE SPORT 5
+https://live.youlive-cdn.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112227True_sport6.jpg",TRUE SPORT 6
+https://live.youlive-cdn.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112240True_sport7.jpg",TRUE SPORT 7
+https://live.youlive-cdn.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://www.doohdbox.com/assets/201707081423451786051871.jpg",T-SPORT
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/t-sports/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/smmtv.png",SMM TV
+http://iliketot.dyndns.tv/48cac6380caf4f078eafccc63804ac23.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/RBWC2019.jpg",RUGBY
+https://live.youlive-cdn.com/RugbyWorldCup/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/nfl-network.gif",NFL
+https://live.youlive-cdn.com/02_NFLNetwork_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png",SKYNETSPORT HD
+https://live.youlive-cdn.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png",SKYNETSPORT 1
+https://live.youlive-cdn.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png",SKYNETSPORT 2
+https://live.youlive-cdn.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports3.png",SKYNETSPORT 3
+https://live.youlive-cdn.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png",SKYNETSPORT 4
+https://live.youlive-cdn.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports5.png",SKYNETSPORT 5
+https://live.youlive-cdn.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png",SKYNETSPORT 6
+https://live.youlive-cdn.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg",SPORTTV 1
+https://live.youlive-cdn.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg",SPORTTV 2
+https://live.youlive-cdn.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg",BTSPORT 1
+https://live.youlive-cdn.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg",BTSPORT 2
+https://live.youlive-cdn.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 1
+https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 2
+https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 3
+https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 4
+https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 5
+https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 6
+https://ott-live.olympicchannel.com/out/u/OC6_1.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 7
+https://ott-live.olympicchannel.com/out/u/OC7_1.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 8
+https://ott-live.olympicchannel.com/out/u/OC8_1.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 9
+https://ott-live.olympicchannel.com/out/u/OC9_1.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 10
+https://ott-live.olympicchannel.com/out/u/OC10_1.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 11
+https://ott-live.olympicchannel.com/out/u/OC11_1.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 12
+https://ott-live.olympicchannel.com/out/u/OC12_1.m3u8
