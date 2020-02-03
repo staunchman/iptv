@@ -1,0 +1,66 @@
+#EXTM3U
+#EXTINF:-1,ช่อง 5 HD
+http://61.91.12.34:1935/live/tv5streaming_720p/chunklist_w1275983588.m3u8
+
+#EXTINF:-1,CNN
+https://1828529515.rsc.cdn77.org/VGd3ak3eQUju-zaxx7jQ1w==,1580720682/LS-ATL-54548-9/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Cartoon Club (TH)
+https://edge1.livedoohd.com/dooballvei-sd/860605f7e16d4c6cacef72ef02ffa2c1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNjoxNzoyMiBBTSZoYXNoX3ZhbHVlPWlhd0tyS2dTbllxRzVQeUh1Y1ZrMkE9PSZ2YWxpZG1pbnV0ZXM9NjA=
+
+#EXTINF:-1,Boomerang (TH)
+https://edge2.livedoohd.com/dolive/boomerang/chunks.m3u8?nimblesessionid=74535401&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNjoyMjo1NiBBTSZoYXNoX3ZhbHVlPVJOTHRCQ1NUa0dETDRoQnhYZEhYb1E9PSZ2YWxpZG1pbnV0ZXM9MyZzdHJtX2xlbj0xNg==
+
+#EXTINF:-1,สำรวจโลก
+https://edge3.livedoohd.com/dolive/goodtv1/chunks.m3u8?nimblesessionid=94574521&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNjoyNDo1MiBBTSZoYXNoX3ZhbHVlPTB5dlk4T29Zd3V3Zk5LZC91NTFSVEE9PSZ2YWxpZG1pbnV0ZXM9MyZzdHJtX2xlbj0xNA==
+
+#EXTINF:-1,My Sci
+https://edge2.livedoohd.com/dolive/mysci_e/chunks.m3u8?nimblesessionid=74536722&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNjoyNzowMSBBTSZoYXNoX3ZhbHVlPXN6NGdPaC9pdFd0bU82N1dSMlVBOUE9PSZ2YWxpZG1pbnV0ZXM9MyZzdHJtX2xlbj0xNA==
+
+#EXTINF:-1,True Music HD (TH)
+https://edge2.livedoohd.com/dolive/truemusic/chunks.m3u8?nimblesessionid=74537398&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNjoyODo1OSBBTSZoYXNoX3ZhbHVlPVNFUWo0eG1jSGNVYnlRN2tIcEl6ZUE9PSZ2YWxpZG1pbnV0ZXM9MyZzdHJtX2xlbj0xNg==
+
+#EXTINF:-1,HBO Signature (SubTH)
+https://edge2.livedoohd.com/dolive/aishbosignature/chunks.m3u8?nimblesessionid=74538270&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNjozMToyMyBBTSZoYXNoX3ZhbHVlPWNwanJOMWcxZWdORzdEaGpSVGlJbVE9PSZ2YWxpZG1pbnV0ZXM9MyZzdHJtX2xlbj0yMg==
+
+#EXTINF:-1,HBO HD (SubTH)
+https://edge2.livedoohd.com/dolive/hd-hbo-thai/chunks.m3u8?nimblesessionid=74539574&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNjozNDo0OCBBTSZoYXNoX3ZhbHVlPVdGYkl2cDhualdFczduaTd2TzFxcWc9PSZ2YWxpZG1pbnV0ZXM9MyZzdHJtX2xlbj0xOA==
+
+#EXTINF:-1,Red by HBO TH (SubEng)
+https://edge1.livedoohd.com/dolive/hd-redbyhbo/chunks.m3u8?nimblesessionid=120024938&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNjozNjo0MSBBTSZoYXNoX3ZhbHVlPWVXUCtYN05WcG9rWk9uSXo1ZWJDRkE9PSZ2YWxpZG1pbnV0ZXM9MyZzdHJtX2xlbj0xOA==
+
+#EXTINF:-1,HBO Hit (SubTH)
+https://edge3.livedoohd.com/dolive/aishbohit/chunks.m3u8?nimblesessionid=94577506&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNjozODoyNiBBTSZoYXNoX3ZhbHVlPTFNYjhmZi82ZmZTR2FJeTM3aHpidWc9PSZ2YWxpZG1pbnV0ZXM9MyZzdHJtX2xlbj0xNg==
+
+#EXTINF:-1,HBO Family (SubTH)
+https://edge1.livedoohd.com/dolive/aishbofam/chunks.m3u8?nimblesessionid=120025392&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNjo0MDoxNSBBTSZoYXNoX3ZhbHVlPXFxU24yU0VGUUZ0ZnNTTVhtRVNQd1E9PSZ2YWxpZG1pbnV0ZXM9MyZzdHJtX2xlbj0xNg==
+
+#EXTINF:-1,True Series (ENG)
+https://edge1.livedoohd.com/dolive/trueseries/chunks.m3u8?nimblesessionid=120025833&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNjo0MzoyMiBBTSZoYXNoX3ZhbHVlPUdZR1lIQkk1SHJvVFgxSldQMGlIMUE9PSZ2YWxpZG1pbnV0ZXM9MyZzdHJtX2xlbj0xNw==
+
+#EXTINF:-1,Warner TV (SubTH)
+https://edge3.livedoohd.com/dolive/warnertv/chunks.m3u8?nimblesessionid=94579164&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNjo0NjowNiBBTSZoYXNoX3ZhbHVlPStvb3hLdzErZ0tMK0lBUHUxUUFFaWc9PSZ2YWxpZG1pbnV0ZXM9MyZzdHJtX2xlbj0xNQ==
+
+#EXTINF:-1,Paramount (SubTH)
+https://edge1.livedoohd.com/dolive/paramount_720p/chunks.m3u8?nimblesessionid=120026767&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNjo0OToxOCBBTSZoYXNoX3ZhbHVlPUFsYTYwTFU0aVMyR1pseFgvd3k3cEE9PSZ2YWxpZG1pbnV0ZXM9MyZzdHJtX2xlbj0yMQ==
+
+#EXTINF:-1,Premier Football HD1
+https://edge1.livedoohd.com/dolive/premierfhd/chunks.m3u8?nimblesessionid=120027196&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNjo1MTozOCBBTSZoYXNoX3ZhbHVlPXpySUFpRnFOaFVkZVRkb2VZRHRCYVE9PSZ2YWxpZG1pbnV0ZXM9MyZzdHJtX2xlbj0xNw==
+
+#EXTINF:-1,History (TH)
+https://edge1.livedoohd.com/dolive/historyhd_720p/chunks.m3u8?nimblesessionid=120027873&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNjo1NjowMiBBTSZoYXNoX3ZhbHVlPXNOVjBIbVBnUmZWTkR0NS9VdWJPZkE9PSZ2YWxpZG1pbnV0ZXM9MyZzdHJtX2xlbj0yMQ==
+
+#EXTINF:-1,National Geographic (ENG)
+https://edge3.livedoohd.com/dolive/natgeographic_720p/chunks.m3u8?nimblesessionid=94581550&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNjo1ODoyNCBBTSZoYXNoX3ZhbHVlPVp4NlZGNk1ud0Z6NDVwZHBtb0pXbEE9PSZ2YWxpZG1pbnV0ZXM9MyZzdHJtX2xlbj0yNQ==
+
+#EXTINF:-1,BBC Lifestyle (ENG)
+https://edge1.livedoohd.com/dolive/bbclifestyte/chunks.m3u8?nimblesessionid=120028484&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNjo1OTo0MSBBTSZoYXNoX3ZhbHVlPWR5cDFYMEFLcWFBaGZzcW1MU1VQOVE9PSZ2YWxpZG1pbnV0ZXM9MyZzdHJtX2xlbj0xOQ==
+
+#EXTINF:-1,BBC Earth (TH)
+https://edge3.livedoohd.com/dolive/bbc_eartdoo/chunks.m3u8?nimblesessionid=94582065&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNzowMTowOSBBTSZoYXNoX3ZhbHVlPWZmZFZweTNaRDRNZkwzMHpmbFBZcUE9PSZ2YWxpZG1pbnV0ZXM9MyZzdHJtX2xlbj0xOA==
+
+#EXTINF:-1,Sky News (ENG)
+https://edge3.livedoohd.com/dolive/skynews/chunks.m3u8?nimblesessionid=94582510&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNzowMzo1MyBBTSZoYXNoX3ZhbHVlPWk2TDE0dCtuRjNlaEJPRFFMV2lxWkE9PSZ2YWxpZG1pbnV0ZXM9MyZzdHJtX2xlbj0xNA==
+
+#EXTINF:-1,Mono Plus (TH)
+https://edge3.livedoohd.com/dolive/monoplus/chunks.m3u8?nimblesessionid=94582795&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNzowNToyOSBBTSZoYXNoX3ZhbHVlPWxMSXNHV0RwV3hSaDVnRCs1aitwcVE9PSZ2YWxpZG1pbnV0ZXM9MyZzdHJtX2xlbj0xNQ==
