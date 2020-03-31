@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1,Movies 1
+http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
+
+#EXTINF:-1,Movies 2
+http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
+
+#EXTINF:-1,Movies 3
+http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
+
+#EXTINF:-1,Movies 4
+http://27.254.149.109:8081/live/upmovie.stream/playlist.m3u8
+
+#EXTINF:-1,Movies 5
+https://tv4.chang55.com/live2/tv4ch90.stream/chunks.m3u8
+
+#EXTINF:-1,Movies 6
+http://203.154.243.31:8081/live/ping/index.m3u8
+ 
+#EXTINF:-1,Movies 7
+http://203.154.243.31:8081/live/h-channel/index.m3u8
+ 
+#EXTINF:-1,Movies 8
+https://tv4.chang55.com/live2/tv4ch43.stream/chunks.m3u8
